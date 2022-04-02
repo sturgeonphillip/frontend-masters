@@ -1,2 +1,2 @@
 # frontend-masters
-# frontend masters coursework
+frontend masters coursework
