@@ -1,0 +1,17 @@
+suggested links from the live chat
+
+https://dirask.com/posts/JavaScript-pad-left-number-in-string-with-zeros-or-spaces-to-get-determined-length-VjvX3D
+https://kaleidoscope.app/
+https://blog.logrocket.com/react-lifecycle-methods-tutorial-examples/#shouldcomponentupdate
+https://www.jetbrains.com/webstorm/guide/tutorials/react_typescript_tdd/
+https://www.classcentral.com/report/free-developer-it-certifications/?utm_source=cc_newsletter&utm_medium=email&utm_campaign=march2022
+https://blocksurvey.io/?ref=brave-private
+https://reactrouter.com/docs/en/v6/examples/auth
+https://stackblitz.com/github/kkvizjqpb?file=src/App.tsx
+https://dev.to/iamandrewluca/private-route-in-react-router-v6-lg5
+
+
+
+debugbear.com
+https://web.dev/detached-window-memory-leaks/
+--> research javascript memory leaks and find optimal solutions to prevent them

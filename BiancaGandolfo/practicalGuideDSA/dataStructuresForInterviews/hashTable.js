@@ -90,5 +90,5 @@ console.log(myHT);
 
 // if we have two items with the same space ( collision ) -> create a tuple
 
-// amortized analysis: a method for analyzing a given algorithm's complexity, or how much of a resource(especially time or memory, it takes to execute. Motivation is that looking at the worst-case run time can be too pessimistic.
-// "Given that the worst case is so unlikely that it's not useful to think about it. So if we have a rare case in which we have a large quantity of key/values that are all in the same index, we'll be looping through. But this is a linear operation that is so rare. "
+// amortized analysis: a method for analyzing a given algorithm's complexity, or how much of a resource(especially time or memory), it takes to execute. The motivation is that looking at the worst-case run time can be too pessimistic.
+// "Given that the worst case is so unlikely that it's not useful to think about it. So if we have a rare case in which we have a large quantity of key/values that are all in the same index, we'll be looping through. But this is a linear operation that is so rare."

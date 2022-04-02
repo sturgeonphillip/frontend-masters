@@ -1,0 +1,19 @@
+icon driven delevopment
+
+stack overflow version of css
+
+
+when you install a package (npm) and run it, node modules will reference the .bin directory to check for the matching prettier binary. This makes it pointless for global installs (i think) because your project will first look for and reference the node modules.
+
+
+you can't depend on how frequently react is going to render, so DON'T depend on how frequently react will render.
+
+hooks -> as a paradigm: a methodology of writing code. while hooks are hard-tied to react, there are other libraries (getify TNG-hooks) that implement this form of writing code. (getify is kyle simpson)
+
+
+
+
+
+state tracking (one of his least favorite things)
+
+context - useful at application level for a 'shared global state', much better option than redux
