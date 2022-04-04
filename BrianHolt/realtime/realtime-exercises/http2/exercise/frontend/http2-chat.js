@@ -173,3 +173,6 @@ getNewMsgs();
 // // we have to write code for a long running connection. remember, this is not what http2 push was built for so we're kind of abusing it, which is fun.
 
 // // http2 is unidirectional ( at least in this case, the way we're using it). data streams from server to the client, but not the reverse. ( that would be a websocket )
+
+// react ==> don't dispose of connections
+// rx js --> reactive sockets
