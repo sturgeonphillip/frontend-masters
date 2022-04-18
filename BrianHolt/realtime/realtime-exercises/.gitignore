@@ -5,4 +5,4 @@ public/
 *.pem
 *.crt
 .env.local
-websockets/raw2
+websockets/raw2/
