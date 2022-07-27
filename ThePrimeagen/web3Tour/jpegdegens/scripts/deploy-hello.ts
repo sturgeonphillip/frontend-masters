@@ -5,6 +5,7 @@ async function foo() {
 	const HelloWorld = await ethers.getContractFactory("HelloWorld");
 	const hello = await HelloWorld.deploy();
 	await hello.deployed();
+
 	return hello;
 }
 // get CONTRACT name, not FILE

@@ -1,18 +1,18 @@
-import "@nomiclabs/hardhat-ethers";
-import { ethers } from "hardhat";
-import { expect } from "chai";
+// import "@nomiclabs/hardhat-ethers";
+// import { ethers } from "hardhat";
+// import { expect } from "chai";
 
-describe("hello world", function() {
-	it("should say hi", async function(){
-		// 1. setup environment
-		// 2. deploy contracdt
-		// 3. call our functions to test
+// describe("hello world", function() {
+// 	it("should say hi", async function(){
+// 		// 1. setup environment
+// 		// 2. deploy contracdt
+// 		// 3. call our functions to test
 
-		// 2. 
-		const HelloWorld = await ethers.getContractFactory("HelloWorld");
-		const hello = await HelloWorld.deploy();
-		await hello.deployed();
+// 		// 2. 
+// 		const HelloWorld = await ethers.getContractFactory("HelloWorld");
+// 		const hello = await HelloWorld.deploy();
+// 		await hello.deployed();
 
-		expect(await hello.hello()).to.equal("Hello, World");
-	});
-});
+// 		expect(await hello.hello()).to.equal("Hello, World");
+// 	});
+// });
