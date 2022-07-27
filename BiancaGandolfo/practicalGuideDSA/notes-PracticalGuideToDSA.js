@@ -13,21 +13,21 @@
 
 // console.log(uniqSort([4, 2, 2, 3, 2, 2, 2])) // [2, 3, 4 ]
 
-// /**
-//  *  - breadcrumbs vs memoization
-//  * 
-//  * 	the value we get to cache with the breadcrumbs method is not the result of a 			function.
-//  * 	memoization is a type of cache - saving the result of a function
-//  * 	==> difference is where the value comes from
-//  * 
-//  * - factorial
-//  * n!
-//  * 5! === 5 * 4 * 3 * 2 * 1
-//  * factorial(35) === 35!
-//  * factorial(36) === 35! * 36 
-//  *
-//  * 
-//  */
+/**
+ * Breadcrumbs vs Memoization methods
+ * ==> difference is where the value comes from
+ * breadcrumbs: value we get to cache is not the result of a function
+ * memoization is a type of cache that saves the results of a function
+ * 
+ * 
+ * - factorial
+ * n!
+ * 5! === 5 * 4 * 3 * 2 * 1
+ * factorial(35) === 35!
+ * factorial(36) === 35! * 36 
+ *
+ * 
+ */
 
 // //* - *//
 // 	//o//
@@ -512,16 +512,3 @@ const makeChange = (value, i) => {	// 12
 
  console.log(makeChange(12));
  */
-
-
-
-
-
-
-
-
-
-
-
-
-
